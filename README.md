@@ -1,6 +1,6 @@
-# Zed Fleet Themes
+# 🚢 Zed Fleet Themes
 
-Fleet themes for [Zed](https://zed.dev)
+Transform [Zed](https://zed.dev) with Fleet's sleek, modern aesthetic for a sublime coding experience.
 
 ![Screenshot](assets/preview.png)
 
