@@ -1,0 +1,9 @@
+{
+  "version": "4",
+  "redirects": {
+    "https://deno.land/x/color/mod.ts": "https://deno.land/x/color@v0.3.0/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/color@v0.3.0/mod.ts": "7db5473061c484f0e830ee883ab0764bb55999acfd6a182919540ac9efa830a2"
+  }
+}

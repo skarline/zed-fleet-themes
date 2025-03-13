@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "import": "deno run --allow-read --allow-write --allow-env import.ts",
+    "dev": "deno run --allow-read --allow-write --allow-env --watch import.ts"
+  }
+}
